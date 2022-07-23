@@ -19,19 +19,19 @@ There are four different types of queues:
 
 ## Simple Queue:
 
-![img.png](img.png)
+![img.png](Images/img.png)
 
 ## Circular Queue:
 
-![img_1.png](img_1.png)
+![img_1.png](Images/img_1.png)
 
 ## Priority Queue:
 
-![img_2.png](img_2.png)
+![img_2.png](Images/img_2.png)
 
 ## Double Ended Queue:
 
-![img_3.png](img_3.png)
+![img_3.png](Images/img_3.png)
 
 #### Types of Deque : 
 - Input Restricted Deque :-
@@ -41,7 +41,7 @@ There are four different types of queues:
 
 ## Linked List:
 
-![img_4.png](img_4.png)
+![img_4.png](Images/img_4.png)
 
 ### Linked List Operations: Traverse, Insert and Delete:
 #### Here's a list of basic linked list operations that we will cover in this article :-
@@ -57,11 +57,17 @@ There are four different types of queues:
 - Doubly Linked List
 - Circular Linked List
 
-![img_5.png](img_5.png)
+![img_5.png](Images/img_5.png)
 
-![img_6.png](img_6.png)
+![img_6.png](Images/img_6.png)
 
-![img_7.png](img_7.png)
+![img_7.png](Images/img_7.png)
 
-## Hash Table
-![img_8.png](img_8.png)
+## Hash Table :
+![img_8.png](Images/img_8.png)
+
+## Heap :
+![img_9.png](Images/img_9.png)
+
+## Tree Data Structure : 
+![img_10.png](Images/img_10.png)
