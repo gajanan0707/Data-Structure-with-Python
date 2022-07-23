@@ -98,3 +98,6 @@ There are four different types of queues:
   ![img_4.png](Images/img_17.png)
 6. Balanced Binary Tree :
   ![img_5.png](Images/img_18.png)
+
+## B-tree
+ ![img_5.png](Images/img_11.png)
