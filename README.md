@@ -62,3 +62,6 @@ There are four different types of queues:
 ![img_6.png](img_6.png)
 
 ![img_7.png](img_7.png)
+
+## Hash Table
+![img_8.png](img_8.png)
