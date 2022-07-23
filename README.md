@@ -71,3 +71,30 @@ There are four different types of queues:
 
 ## Tree Data Structure : 
 ![img_10.png](Images/img_10.png)
+
+## Types of Tree
+- Binary Tree
+- Binary Search Tree
+- AVL Tree
+- B-Tree
+
+## Tree Traversal - inorder, preorder and postorder
+![img.png](Images/img11.png)
+
+## Binary Tree
+![img.png](Images/img12.png)
+
+### Types of Binary Tree
+
+1. A Full Binary Tree :
+  ![img.png](Images/img13.png)
+2. Perfect Binary Tree:
+  ![img_1.png](Images/img_14.png)
+3. Complete Binary Tree :
+  ![img_2.png](Images/img_15.png)
+4. Degenerate or Pathological Tree :
+  ![img_3.png](Images/img_16.png)
+5. Skewed Binary Tree : 
+  ![img_4.png](Images/img_17.png)
+6. Balanced Binary Tree :
+  ![img_5.png](Images/img_18.png)
